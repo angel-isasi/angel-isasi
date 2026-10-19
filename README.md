@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Angel 👋
 
-<!--
-**angel-isasi/angel-isasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering student at UNICA (Peru) building my path as a **frontend developer**.
 
-Here are some ideas to get you started:
+- 🔨 Currently learning: JavaScript (Hard Parts) → React → Next.js → TypeScript
+- 🌐 Portfolio: [angel-isasi.com](https://angel-isasi.com)
+- 💼 LinkedIn: [angel-isasi-oyolo](https://www.linkedin.com/in/angel-isasi-oyolo)
+- 🗣️ Spanish (native) · English (B2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+HTML · CSS · JavaScript · TypeScript · Next.js · Tailwind · Git · Vercel
+
+### Featured projects
+- **[sistema-turnos-unica](https://github.com/angel-isasi/sistema-turnos-unica)** — University queue and service system (frontend + architecture)
+- **[word-masters](https://github.com/angel-isasi/word-masters)** — Wordle clone in HTML, CSS and JavaScript
+- **[portfolio](https://github.com/angel-isasi/portfolio)** — My personal site built with Next.js
