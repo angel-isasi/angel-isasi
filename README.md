@@ -11,6 +11,6 @@ Systems Engineering student at UNICA (Peru) building my path as a **frontend dev
 HTML · CSS · JavaScript · TypeScript · Next.js · Tailwind · Git · Vercel
 
 ### Featured projects
-- **[sistema-turnos-unica](https://github.com/angel-isasi/sistema-turnos-unica)** — University queue and service system (frontend + architecture)
-- **[word-masters](https://github.com/angel-isasi/word-masters)** — Wordle clone in HTML, CSS and JavaScript
-- **[portfolio](https://github.com/angel-isasi/portfolio)** — My personal site built with Next.js
+- **[sistema-turnos-unica](https://github.com/angel-isasi/sistema-turnos-unica)** : University queue and service system (frontend + architecture)
+- **[word-masters](https://github.com/angel-isasi/word-masters)** : Wordle clone in HTML, CSS and JavaScript
+- **[portfolio](https://github.com/angel-isasi/portfolio)** : My personal site built with Next.js
